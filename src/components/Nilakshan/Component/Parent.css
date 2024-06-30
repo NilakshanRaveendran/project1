@@ -13,6 +13,9 @@
     padding-right: 100px;
 }
 
+.parent .parent1 h2{
+    font-size: 40px;
+}
 .parent img {
     max-width: 200px;
     padding-right: 10px;
