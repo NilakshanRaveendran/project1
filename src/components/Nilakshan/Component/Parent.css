@@ -59,6 +59,14 @@
     margin: 10px 0 10px 0;
 }
 
+.parent .parent2 #subscribe {
+    width: 280px;
+    padding: 10px;
+    border: 1px solid #6A41AE;
+    border-radius: 5px;
+  }
+  
+
 .parent .parent2 img {
     width: 20px;
 }

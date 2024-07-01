@@ -67,6 +67,7 @@ const Parent = () => {
         <h3>Your email or Phone number</h3>
         <input
           type="search"
+          id='subscribe'
           placeholder='Email or User name'
           value={email}
           onChange={(e) => setEmail(e.target.value)}
