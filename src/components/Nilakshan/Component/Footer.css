@@ -30,7 +30,12 @@
     padding: 20px;
 }
 
-
+.footer .box #subscribe {
+    width: 280px;
+    padding: 10px;
+    border: 1px solid #6A41AE;
+    border-radius: 5px;
+  }
 
 input::placeholder {
   color: #6A41AE; /* Color of the placeholder text */
